@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammedShanan
-- 👀 I’m interested in Video games development
+- 👀 I’m interested in Video games_development + web_development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohammedshanan12@gmail.com
