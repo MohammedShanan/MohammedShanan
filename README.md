@@ -1,0 +1,1 @@
+I'm an aspiring Full Stack Developer with a strong passion for building modern web applications. I'm currently learning and working with technologies like Laravel, Vue.js, MySQL, and Tailwind CSS. I enjoy solving problems with code and turning ideas into functional, responsive websites.
